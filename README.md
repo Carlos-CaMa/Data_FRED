@@ -1,5 +1,5 @@
 
-**GETTING FRED DATA PROGRAMATICALLY**
+**GETTING FRED DATA PROGRAMMATICALLY**
 
 This repository contains the R code to programmatically download US macro data from the FRED database (see https://fred.stlouisfed.org/). For that, you need to get you API key, which you can get quickly for free (https://fred.stlouisfed.org/docs/api/api_key.html).
 
